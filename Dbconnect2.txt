@@ -1,0 +1,8 @@
+Dbconnect2
+
+IP2=10.10.10.10
+PROT2=9999
+ID2=admin
+PASSWORD2=qwer1234
+DBNAME2=web
+
